@@ -17,7 +17,7 @@
 - [`threat-intel-feed`](../threat-intel-feed) — daily CVE snapshots
 
 ### 📫 Contact
-- LinkedIn: ...
-- Email: ...
+- LinkedIn: https://www.linkedin.com/in/benedict-karaya-52b391317/?lipi=urn%3Ali%3Apage%3Ad_flagship3_feed%3BHC9IdwuPQd2LIix0Mj4vTA%3D%3D
+- Email: benedictkevin132@gmail.com
 
 > **Ethics first.** All tools and notes are for authorized testing and learning only.
